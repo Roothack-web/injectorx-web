@@ -1,1 +1,1 @@
-SQLMAP_PATH = "C:\\Users\\rootreapers\\agent\\spiritUs\\hack_tool\\sqlmap\\sqlmap.py"
+SQLMAP_PATH = "input/your/sqlmap/path"
